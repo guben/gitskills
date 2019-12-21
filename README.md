@@ -4,6 +4,7 @@ void main(){
 }  
 now,i am the dev branch.  
 actually feature1 without conflict  
-no fast forward  
-cao ni ma  
+no fast forward   
 want ture lf  
+i am fixing the bug  
+
